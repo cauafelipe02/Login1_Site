@@ -27,7 +27,7 @@ Design responsivo e cores bem aplicadas. A simplicidade desse projeto é uma das
 ## ⚙ Como Baixar:
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/cauafelipe02/MultiMakes_site.git
+   git clone https://github.com/cauafelipe02/Login1_Site.git
 2. **Abra o projeto em um editor de código: Visual Studio Code, Sublime Text, etc.**
 3. **Abra o arquivo index.html em um navegador web.**
 
